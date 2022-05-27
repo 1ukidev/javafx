@@ -1,0 +1,35 @@
+.label {
+    -fx-text-fill: #8963f1;
+}
+
+#campoUsuario {
+    -fx-border-color: #8963f1;
+    -fx-background-color: #131313;
+    -fx-text-fill: #ffffff;
+}
+
+#campoSenha {
+    -fx-border-color: #8963f1;
+    -fx-background-color: #131313;
+    -fx-text-fill: #ffffff;
+}
+
+#campoConfirmar {
+    -fx-border-color: #8963f1;
+    -fx-background-color: #131313;
+    -fx-text-fill: #ffffff;
+}
+
+.button {
+    -fx-background-color: #8963f1;
+    -fx-text-fill: #ffffff;
+}
+
+.button:hover {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #8963f1;
+}
+
+#Tela {
+    -fx-background-color: #131313;
+}
